@@ -28,6 +28,7 @@ vectorcraft-pdf = { path = "crates/pdf" }
 vectorcraft-format = { path = "crates/format" }
 vectorcraft-tools = { path = "crates/tools" }
 vectorcraft-engine = { path = "crates/engine" }
+vectorcraft-tablet = { path = "crates/tablet" }
 vectorcraft-ui-egui = { path = "crates/ui-egui" }
 vectorcraft-mcp = { path = "crates/mcp" }
 vectorcraft-testkit = { path = "crates/testkit" }
