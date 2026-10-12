@@ -1,0 +1,15 @@
+[package]
+name = "vectorcraft-tablet"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+description = "Native tablet frontend facade for VectorCraft"
+
+[lints]
+workspace = true
+
+[dependencies]
+vectorcraft-engine = { workspace = true }
+vectorcraft-geom = { workspace = true }
+vectorcraft-render = { workspace = true }
+vectorcraft-tools = { workspace = true }
